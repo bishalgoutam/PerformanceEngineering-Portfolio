@@ -44,7 +44,7 @@ I'm a seasoned Software Engineer with 16 years of experience specializing as a P
   - **Mobile Apps: Expertise in testing for iOS and Android platforms.**
   - **APIs: Ensuring API endpoints perform under various load conditions.**
 
-- **Programming Languages
+- **Programming Languages**
   - **C**
   - **C++**
   - **Java**
