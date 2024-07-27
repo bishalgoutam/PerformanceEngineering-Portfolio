@@ -30,26 +30,26 @@ I'm a seasoned Software Engineer with 16 years of experience specializing as a P
 
 ## 🛠 Expertise
 - **Performance Testing Tools:**
--- **LoadRunner: Extensive experience in scripting, execution, and analysis.**
-- **VSTS: Skilled in designing and executing performance tests.**
-- **JMeter: Proficient in creating complex test plans and analyzing results.**
-- **NeoLoad: Expertise in load testing and performance monitoring.
-#### Selenium
-#### HP QTP/UFT
+  - **LoadRunner: Extensive experience in scripting, execution, and analysis.**
+  - **VSTS: Skilled in designing and executing performance tests.**
+  - **JMeter: Proficient in creating complex test plans and analyzing results.**
+  - **NeoLoad: Expertise in load testing and performance monitoring.**
+  - **Selenium**
+  - **HP QTP/UFT**
 
-### Applications Tested:
-#### Web Applications: Ensuring seamless user experience and reliability.
-#### SAP: Specialized in performance tuning and load testing.
-#### PeopleSoft: Optimized performance for enterprise applications.
-#### Mobile Apps: Expertise in testing for iOS and Android platforms.
-#### APIs: Ensuring API endpoints perform under various load conditions.
+- **Applications Tested:**
+  - **Web Applications: Ensuring seamless user experience and reliability.**
+  - **SAP: Specialized in performance tuning and load testing.**
+  - **PeopleSoft: Optimized performance for enterprise applications.**
+  - **Mobile Apps: Expertise in testing for iOS and Android platforms.**
+  - **APIs: Ensuring API endpoints perform under various load conditions.**
 
-### Programming Languages
-- **C**
-- **C++**
-- **Java**
-- **JavaScript**
-- **Python**
+- **Programming Languages
+  - **C**
+  - **C++**
+  - **Java**
+  - **JavaScript**
+  - **Python**
  
 ## 📚 Academics 
 - **Master of Science in Software Development (2022 - Present, Boston University, USA)**
