@@ -22,18 +22,18 @@ I'm a seasoned Software Engineer with 16 years of experience specializing as a P
 
 
 ## ✨ Professional Highlights
-### Automated Performance Test Designing: Designed and coded automated performance tests tailored to diverse platforms and tools.
-### Project Leadership: Led numerous performance test projects, ensuring timely delivery and exceptional quality.
-### Comprehensive Analysis: Provided in-depth performance analysis and optimization recommendations.
-### Cross-Platform Expertise: Versatile in testing a variety of applications, from web and mobile to enterprise systems.
-### Certified Technology Architect
+- **Automated Performance Test Designing: Designed and coded automated performance tests tailored to diverse platforms and tools.**
+- **Project Leadership: Led numerous performance test projects, ensuring timely delivery and exceptional quality.**
+- **Comprehensive Analysis: Provided in-depth performance analysis and optimization recommendations.**
+- **Cross-Platform Expertise: Versatile in testing a variety of applications, from web and mobile to enterprise systems.**
+- **Certified Technology Architect**
 
 ## 🛠 Expertise
-### Performance Testing Tools:
-#### LoadRunner: Extensive experience in scripting, execution, and analysis.
-#### VSTS: Skilled in designing and executing performance tests.
-#### JMeter: Proficient in creating complex test plans and analyzing results.
-#### NeoLoad: Expertise in load testing and performance monitoring.
+- **Performance Testing Tools:**
+-- **LoadRunner: Extensive experience in scripting, execution, and analysis.**
+- **VSTS: Skilled in designing and executing performance tests.**
+- **JMeter: Proficient in creating complex test plans and analyzing results.**
+- **NeoLoad: Expertise in load testing and performance monitoring.
 #### Selenium
 #### HP QTP/UFT
 
